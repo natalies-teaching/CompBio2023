@@ -52,7 +52,7 @@ This is the preliminary set of topics.
 |Week 13-2| Graph Alignment and Summarization| [[REGAL (graph alignment)](https://gemslab.github.io/papers/heimann-2018-regal.pdf)], [[Refining Network Alignment](https://gemslab.github.io/papers/heimann-2021-RefiNA.pdf)] |   | [[REGAL](https://github.com/GemsLab/REGAL)], [[RefiNA](https://github.com/GemsLab/RefiNA)] |
 |Week 14-1| Graph Alignment Refinment, Summarization, and Compression | See papers from last time | |
 |Week 14-2| Label Propagation and Graph Neural Networks   | [[Correct and Smooth](https://arxiv.org/abs/2010.13993)] |  |
-|Weel 15-1 | Imaging Omics |[[LEAPH](https://www.cell.com/cell-reports-methods/pdfExtended/S2667-2375(21)00124-7)] |  | 
+|Weel 15-1 | Imaging Omics and Spatial Modalities |[[LEAPH](https://www.cell.com/cell-reports-methods/pdfExtended/S2667-2375(21)00124-7)] |  | 
 |Wednesday, April 20| Technical Writing in Comp Bio and Wrap-Up, Summary of the Semester wrt to graphs in biomedicine | [[Watch : How to be a Machine Learning Biologist](https://www.youtube.com/watch?v=xueh6WnpRDQ&t=1651s)], [[Graph Representation Learning in Biomedicine](https://arxiv.org/abs/2104.04883)] |  |
 |Week 15-2| Project Presentations Day 1 |
 |Week 16-1| Project Presentations Day 2|
