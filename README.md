@@ -58,3 +58,18 @@ This is the preliminary set of topics.
 |Week 16-1| Project Presentations Day 2|
 |Final Project| Final Project Writeups Due
 
+# Reading Questions
+
+**Please choose 2 papers over the course of the semester to do this for, and turn them in before our class meeting 11am to natalies+comp790@cs.unc.edu**. 
+
+1) Please explain in 2 sentences or less what the problem being solved is.
+
+2) What were the main contributions of the authors in this work? (You can answer in a few bullet points). 
+
+3) Please describe 1-2 computational experiments that the authors implemented to test their method.
+
+4) Were the authors the first to attempt this particular problem? If not, did they compare their results to other baselines? Do you think that their evaluation was objective?
+
+5) Do you think that the authors provided enough evidence for why their developed method is an important contribution? If yes, please describe their reasoning here. If you do not think they adequately justified why they worked on this particular problem, please describe your thoughts on that here. 
+
+6) What is one follow-up idea or extension from this work? 
