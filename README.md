@@ -40,10 +40,10 @@ This is the preliminary set of topics.
 |Week 7-1| Differential Abundance Day 2. Cydar,  Milo| [[Milo](https://www.nature.com/articles/s41587-021-01033-z)] |  |  [[Milo](https://github.com/emdann/milopy)] | 
 |Week 7-2| Finish differential abundance analysis (Milo and Cydar), Contrastive PCA for dealing with background data | [[Contrastive PCA](https://www.nature.com/articles/s41467-018-04608-8)] |  | [[Contrastive PCA](https://github.com/abidlabs/contrastive)] |
 |Week 8-1| Trajectory inference | [[PAGA](https://link.springer.com/article/10.1186/s13059-019-1663-x)], [[A Comparison of Single-Cell Trajectory Inference Methods](https://www.nature.com/articles/s41587-019-0071-9)], [[Slingshot](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4772-0)]. |  | [[PAGA](https://scanpy.readthedocs.io/en/stable/generated/scanpy.tl.paga.html)] | 
-|Week 9-1| Batch 1 of project presentations | |
-|Week 9-2| Batch 2 of project presentations |  |
-|Week 10-1| Spring Break -- No class! |
-|Week 10-2| Spring Break -- No class! | 
+|Week 9-1| X | |
+|Week 9-2| X |  |
+|Week 10-1| X |
+|Week 10-2| X | 
 |Week 11-1| Finish differential abundance analysis (Milo), Contrastive PCA, Merging Multiple Single-Cell Datasets (Conos) | [[Conos](https://www.nature.com/articles/s41592-019-0466-z)] |  | [[Conos](https://github.com/kharchenkolab/conos)] |
 |Week 11-2| Pseudotime, Diffusion, and Cellular Differentiation | [[Diffusion Maps for Differentiation](https://academic.oup.com/bioinformatics/article/31/18/2989/241305)], [[SLICER-developed at UNC](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0975-3)], [[Original Diffusion Maps (Coifman)](https://papers.nips.cc/paper/2005/file/2a0f97f81755e2878b264adf39cba68e-Paper.pdf)] |  | [[Diffusion Maps -Scanpy](https://scanpy.readthedocs.io/en/latest/api/scanpy.tl.diffmap.html)], [[SLICER](https://github.com/jw156605/SLICER)]  | 
 |Week 12-1| Last single-cell lecture. Branching trajectories with SLICER. Begin combining biological data from multiple modalities using Grassmann Embeddding| [[Subspace Merging on Grassmann Manifold](https://academic.oup.com/bioinformatics/article/35/10/1653/5134062?login=true)], [[Rayleigh Ritz Business (Spectral Clustering...](https://arxiv.org/abs/0711.0189)] |  | [[Grassmann Cluster](https://github.com/michaelsharpnack/GrassmannCluster)] | 
