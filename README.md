@@ -37,8 +37,8 @@ This is the preliminary set of topics.
 |Wednesday, February 8| Finish graph signal processing background. Start differential abundance analysis with MELD| [[MELD](https://www.biorxiv.org/content/10.1101/532846v4)] | [[Lecture9](https://github.com/natalies-teaching/CompBio2023/blob/main/Lectures/Lecture9.pdf)] | [[MELD](https://github.com/KrishnaswamyLab/MELD)] [[pyGSP](https://pygsp.readthedocs.io/en/stable/)] |
 |Monday, February 13| No classs - wellness day. | | | |
 | Wednesday, February 15 | MELD and Cydar for condition-specific prototypical cells |  | [[Lecture10](https://github.com/natalies-teaching/CompBio2023/blob/main/Lectures/Lecture10.pdf)]  |  | ||Week 6-2| Differential Abundance Analysis with Cydar | [[Cydar](https://www.nature.com/articles/nmeth.4295)] |  | [[cydar](https://www.bioconductor.org/packages/release/bioc/html/cydar.html)] |
-|Week 7-1| Differential Abundance Day 2. Cydar,  Milo| [[Milo](https://www.nature.com/articles/s41587-021-01033-z)] |  |  [[Milo](https://github.com/emdann/milopy)] | 
-|Week 7-2| Finish differential abundance analysis (Milo and Cydar), Contrastive PCA for dealing with background data | [[Contrastive PCA](https://www.nature.com/articles/s41467-018-04608-8)] |  | [[Contrastive PCA](https://github.com/abidlabs/contrastive)] |
+|Monday, February 20| Cydar,  Milo, Contrastive PCA for dealing with background data| [[Milo](https://www.nature.com/articles/s41587-021-01033-z)], [[Contrastive PCA](https://www.nature.com/articles/s41467-018-04608-8)] |  |  [[Milo](https://github.com/emdann/milopy)], [[Contrastive PCA](https://github.com/abidlabs/contrastive)]  | 
+|Week 7-2| X |  |  |  |
 |Week 8-1| Trajectory inference | [[PAGA](https://link.springer.com/article/10.1186/s13059-019-1663-x)], [[A Comparison of Single-Cell Trajectory Inference Methods](https://www.nature.com/articles/s41587-019-0071-9)], [[Slingshot](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4772-0)]. |  | [[PAGA](https://scanpy.readthedocs.io/en/stable/generated/scanpy.tl.paga.html)] | 
 |Week 9-1| X | |
 |Week 9-2| X |  |
