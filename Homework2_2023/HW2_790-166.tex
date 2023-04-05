@@ -217,7 +217,7 @@ Recall REGAL alignment \url{https://arxiv.org/pdf/1802.06257.pdf}. The following
 
 6) {\bf Embedding via Landmarks (5 points)}: Given Theorem 3.1 in \url{https://arxiv.org/pdf/1802.06257.pdf},  we can compute the collective node embedding matrix (across Network 1 and Network 2), $\tilde{\bf Y} \in \mathbb{R}^{(N_{1} + N_{2}) \times d}$, as
 
-$$\tilde{\bf Y}={\bf C}{\bf U}{\boldsymbol \Sigma}^{1/2}$$. 
+$$\tilde{\bf Y}={\bf C}{\bf U}{\boldsymbol \Sigma}^{-1/2}$$. 
 
 Recall that here, ${\bf U}$ and ${\boldsymbol \Sigma}$ are obtained through an SVD on the pseudo inverse (${\bf W}^{\text{pinv}}$) of the (landmark $\times$ landmark) similarity matrix, ${\bf W} \in \mathbb{R}^{d \times d}$ extracted from ${\bf C}$.
 
