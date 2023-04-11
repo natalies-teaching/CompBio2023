@@ -52,9 +52,9 @@ This is the preliminary set of topics.
 |Monday, April 3| Finish graph alignments with REGAL, and graph alignment refinements | [[REGAL (graph alignment)](https://gemslab.github.io/papers/heimann-2018-regal.pdf)], [[Refining Network Alignment](https://gemslab.github.io/papers/heimann-2021-RefiNA.pdf)] | [[Lecture19](https://github.com/natalies-teaching/CompBio2023/blob/main/Lectures/Lecture19.pdf)] |  | 
 |Wednesday, April 5| Multiomics factor analysis (MOFA) | [[MOFA](https://www.embopress.org/doi/full/10.15252/msb.20178124)], [[MOFA+](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02015-1)] | [[Lecture20](https://github.com/natalies-teaching/CompBio2023/blob/main/Lectures/Lecture20.pdf)] | [[MOFA](https://github.com/bioFAM/MOFA)] |
 |Monday, April 10| MOFA, MOFA+ | [[MOFA+](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02015-1)]  | [[Lecture21](https://github.com/natalies-teaching/CompBio2023/blob/main/Lectures/Lecture21.pdf)]  |
-|Week 14-1| Convex Optimization and ADMM |  |
-|Week 14-2| X   | [[Correct and Smooth](https://arxiv.org/abs/2010.13993)] |  |
-|Weel 15-1 | X |[[LEAPH](https://www.cell.com/cell-reports-methods/pdfExtended/S2667-2375(21)00124-7)] |  | 
+|Week 14-1| Finish mutiomics factor analysis, Convex Optimization and Data Integration with ADMM ADMM | [[ADMM for ADNI](http://psb.stanford.edu/psb-online/proceedings/psb20/Brand.pdf)]  |
+|Week 14-2| X   |  |  |
+|Weel 15-1 | X | |  | 
 |Wednesday, April 20| Technical Writing in Comp Bio and Wrap-Up, Summary of the Semester wrt to graphs in biomedicine | [[Watch : How to be a Machine Learning Biologist](https://www.youtube.com/watch?v=xueh6WnpRDQ&t=1651s)], [[Graph Representation Learning in Biomedicine](https://arxiv.org/abs/2104.04883)] |  |
 |Week 15-2| Project Presentations Day 1 |
 |Week 16-1| Project Presentations Day 2|
