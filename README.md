@@ -54,7 +54,7 @@ This is the preliminary set of topics.
 |Monday, April 10| MOFA, MOFA+ | [[MOFA+](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02015-1)]  | [[Lecture21](https://github.com/natalies-teaching/CompBio2023/blob/main/Lectures/Lecture21.pdf)]  |
 |Wednesday April 12, [[**Final Project Presentation Signup**](https://docs.google.com/document/d/1x9mIJCZAkeogAhmGlpqJkXwuoAKlB_0gewV1LpXZDoU/edit?usp=sharing)]| Finish mutiomics factor analysis, Convex Optimization and Data Integration with ADMM ADMM | [[ADMM for ADNI](http://psb.stanford.edu/psb-online/proceedings/psb20/Brand.pdf)]  | [[Lecture22](https://github.com/natalies-teaching/CompBio2023/blob/main/Lectures/Lecture22.pdf)] | | 
 |Monday, April 17| Finish up multimodal with temporal axis, Convex optimization    | [[Watch, Stephen Boyd ADMM](https://www.youtube.com/watch?v=Xg0ozgCXXB8)] | [[Lecture23](https://github.com/natalies-teaching/CompBio2023/blob/main/Lectures/Lecture23.pdf)] |
-|Weel 15-1 | X | |  | 
+|Wednesday, April 19 | First Round of Project Presentations, Finish up ADMM lecture with extra time. [[Project Presentation Schedule](https://docs.google.com/document/d/1x9mIJCZAkeogAhmGlpqJkXwuoAKlB_0gewV1LpXZDoU/edit)] | | See slides from Monday  | 
 |Wednesday, April 20| Technical Writing in Comp Bio and Wrap-Up, Summary of the Semester wrt to graphs in biomedicine | [[Watch : How to be a Machine Learning Biologist](https://www.youtube.com/watch?v=xueh6WnpRDQ&t=1651s)], [[Graph Representation Learning in Biomedicine](https://arxiv.org/abs/2104.04883)] |  |
 |Week 15-2| Project Presentations Day 1 |
 |Week 16-1| Project Presentations Day 2|
