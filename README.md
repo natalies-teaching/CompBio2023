@@ -56,6 +56,7 @@ This is the preliminary set of topics.
 |Monday, April 17| Finish up multimodal with temporal axis, Convex optimization    | [[Watch, Stephen Boyd ADMM](https://www.youtube.com/watch?v=Xg0ozgCXXB8)] | [[Lecture23](https://github.com/natalies-teaching/CompBio2023/blob/main/Lectures/Lecture23.pdf)] |
 |Wednesday, April 19 | First Round of Project Presentations, Finish up ADMM lecture with extra time. [[Project Presentation Schedule](https://docs.google.com/document/d/1x9mIJCZAkeogAhmGlpqJkXwuoAKlB_0gewV1LpXZDoU/edit)] | [[Lecture24](https://github.com/natalies-teaching/CompBio2023/blob/main/Lectures/Lecture24.pdf)] | See slides from Monday  | 
 |Wednesday, April 24| Technical Writing in Comp Bio and Wrap-Up, Summary of the Semester wrt to graphs in biomedicine | [[Watch : How to be a Machine Learning Biologist](https://www.youtube.com/watch?v=xueh6WnpRDQ&t=1651s)], [[Graph Representation Learning in Biomedicine](https://arxiv.org/abs/2104.04883)] |  |
+|April 26| Second Day of Project Presentations
 |May 1| Final Project Writeups Due
 
 # Reading Questions
